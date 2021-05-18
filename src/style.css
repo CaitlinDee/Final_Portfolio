@@ -1,7 +1,5 @@
 /* font-family: "Literata", serif; */
 /* font-family: "Poppins", sans-serif; */
-body {
-}
 
 h1 {
   text-align: center;
@@ -13,6 +11,7 @@ h3 {
 }
 p {
   font-family: "literata", sans-serif;
+  font-size: 100px;
 }
 .container {
   background-color: rgba(164, 118, 207, 0.5);

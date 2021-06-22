@@ -55,6 +55,16 @@ a {
 .fa-envelope {
   font-size: 48px;
 }
+.card-header {
+  color: #f5e1e1;
+  font-family: "poppins", sans-serif;
+  text-align: center;
+}
+.card-title {
+  color: #f5e1e1;
+  font-family: "poppins", sans-serif;
+  text-align: center;
+}
 
 #hero {
   font-size: 58px;

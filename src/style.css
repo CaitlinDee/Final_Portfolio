@@ -1,19 +1,81 @@
 /* font-family: "Literata", serif; */
 /* font-family: "Poppins", sans-serif; */
+.first-color {
+  background: #333644;
+}
+.second-color {
+  background: #84577c;
+}
+.third-color {
+  background: #c65f63;
+}
+.fourth-color {
+  background: #c4b4b4;
+}
+.fifth-color {
+  background: #f5e1e1;
+}
+
+body {
+  background-color: #333644;
+}
 
 h1 {
   text-align: center;
   font-family: "poppins" sans-serif;
+  color: #c4b4b4;
 }
 h3 {
   text-align: center;
   font-family: "poppins", sans-serif;
+  color: #c65f63;
 }
 p {
   font-family: "literata", sans-serif;
-  font-size: 100px;
+  color: #c4b4b4;
 }
-.container {
-  background-color: rgba(164, 118, 207, 0.5);
-  border: solid 3px rgb(164, 118, 207);
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 5px solid #c65f63;
+  margin: 1em 0;
+  padding: 0;
+}
+a {
+  color: #84577c;
+  text-decoration: none;
+}
+.fa-instagram {
+  font-size: 48px;
+}
+.fa-linkedin {
+  font-size: 48px;
+}
+.fa-envelope {
+  font-size: 48px;
+}
+
+#portrait {
+  max-width: 500px;
+}
+#blurb {
+  font-family: "literata", sans-serif;
+  color: #c4b4b4;
+}
+#contact-info {
+  color: #c4b4b4;
+  text-align: center;
+}
+#instagram {
+  font-size: 24px;
+  text-align: left;
+}
+#linkedin {
+  font-size: 24px;
+  text-align: left;
+}
+#email {
+  font-size: 24px;
+  text-align: left;
 }
